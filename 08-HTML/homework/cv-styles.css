@@ -13,3 +13,6 @@ div{
 p{
     max-width: 50%;
 }
+li{
+    list-style-type:none;
+}
