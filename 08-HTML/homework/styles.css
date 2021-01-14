@@ -1,0 +1,34 @@
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/228/206/554/abstract-colorful-color-burst-iphone-hd-wallpaper-preview.jpg");
+    display:         flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;        
+}
+.divClass{
+    align-self: center;
+    
+}
+h1{
+    color:#f1faee;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color:#faa307;
+    /*padding: 50px;*/
+    border-width: 2px;
+    border-color:#000;
+    border-style: groove;
+    align-self: center;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+ul {
+    list-style: none;
+}
